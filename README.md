@@ -3,7 +3,7 @@
 在Sunnersjo动力学模型基础上建立的二自由度轴承模型
 有复现的文献和详细的参数注释 可按自己需要的参数修改
 有偿获取
-【闲鱼】https://m.tb.cn/h.gZir8Wd?tk=PrYqWrWieQECZ0012 
+【闲鱼】[https://m.tb.cn/h.gZir8Wd?tk=PrYqWrWieQECZ0012 ](https://m.tb.cn/h.S2vubVJ?tk=L4ZF4uqykWJ MF278)
 <div align="center">
   <img src="https://github.com/linstar12137/2-DOF-rolling-bearing-dynamics-model/blob/main/Quicker_20240416_164104.png">
    <img src="https://github.com/linstar12137/2-DOF-rolling-bearing-dynamics-model/blob/main/VN8MW1G%60K%7BRFO77%5B9XXDEK3.png">
